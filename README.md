@@ -1,4 +1,4 @@
-## FAITH ADEODUN - DATA ANALYST PORTFOLIO
+## Analytics Portfolio
 Welcome to my data analytics portfolio! Here, I showcase my expertise in cleaning, analyzing, and visualizing data to deliver meaningful insights.
 
 
